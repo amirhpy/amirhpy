@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amirhpy
-- 👀 I’m interested in ...
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning ...
 <!---
 amirhpy/amirhpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
